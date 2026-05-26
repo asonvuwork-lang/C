@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main(void){
-    
+    /*
+    Assignment 13
+    Nested if
+    */
     int num;
 
     printf("Enter a number between 1 and 500: ");
